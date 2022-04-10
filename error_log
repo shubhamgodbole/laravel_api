@@ -1,0 +1,132 @@
+[12-Mar-2022 08:00:39 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:00:39 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:06:18 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:06:18 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:06:33 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:06:33 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:07:19 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:07:19 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:08:42 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:08:42 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:13:58 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:13:58 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:19:00 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:19:00 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:19:44 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:19:44 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:19:59 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:19:59 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:20:15 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:20:15 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:20:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
+[12-Mar-2022 08:20:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/../Resources/assets/js/exception.js): failed to open stream: No such file or directory in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:350
+Stack trace:
+#0 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/a3kpru33...', 350, Array)
+#1 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php(350): include()
+#2 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/Resources/views/exception_full.html.php(45): Symfony\Component\ErrorHandler\ErrorRenderer\HtmlErrorRenderer->include('assets/js/excep...')
+#3 /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRendere in /home1/a3kpru33/paypgroom.shyamdeveloper.co.in/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 350
